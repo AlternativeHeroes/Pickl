@@ -61,7 +61,11 @@ module.exports = function(grunt) {
             'node_modules/**',
             'public/**'
           ],
-          ext: 'js'
+          ext: 'js',
+          env: {
+              MONGOLAB_URI: "mongodb://headgoon:alternativeheroes@ds051720.mongolab.com:51720/pickl_users",
+              PORT: 3000
+          }
         }
       }
     },
