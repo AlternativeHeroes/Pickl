@@ -1,0 +1,5 @@
+Humans are competitive by nature. Normally, we express this through gambling, which typically involes both a loss of shame, which 
+then typically leads to a loss of dignity. With our app, Pickl, we are aiming to cut out this middleman, allowing users to jump
+straight to gambling away their dignity. Pickl allows groups of friends to get together, each upload an embarassing photo of themselves,
+decide a wager externally, and then vote on a loser. Pickl will then upload this embarassing information to social media sites, shaming the loser,
+while leaving their wallets unscathed. 
